@@ -27,6 +27,11 @@
               # shell
               pkgs.zsh
               pkgs.oh-my-zsh
+              pkgs.zsh-powerlevel10k
+              pkgs.zsh-autosuggestions
+              pkgs.zsh-syntax-highlighting
+              pkgs.zsh-z
+              pkgs.zsh-history
 
               # commonss tools
               pkgs.git # Added git
